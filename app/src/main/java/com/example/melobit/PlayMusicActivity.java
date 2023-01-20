@@ -13,10 +13,11 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.bumptech.glide.Glide;
-import com.uni.melobit.MusicModel.ModelMusic;
-
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.bumptech.glide.Glide;
+import com.example.melobit.MusicModel.ModelMusic;
+
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

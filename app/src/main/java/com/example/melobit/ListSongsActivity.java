@@ -4,10 +4,10 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
-import com.uni.melobit.ArtistModels.ArtistsModel;
-import com.uni.melobit.ArtistModels.ResultArtists;
-import com.uni.melobit.SongModels.ResultSongs;
-import com.uni.melobit.SongModels.SongsModel;
+import com.example.melobit.ArtistModels.ArtistsModel;
+import com.example.melobit.ArtistModels.ResultArtists;
+import com.example.melobit.SongModels.ResultSongs;
+import com.example.melobit.SongModels.SongsModel;
 
 import java.util.ArrayList;
 import java.util.List;

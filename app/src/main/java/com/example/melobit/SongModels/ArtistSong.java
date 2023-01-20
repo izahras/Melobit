@@ -1,6 +1,6 @@
 package com.example.melobit.SongModels;
 
-import com.uni.melobit.ArtistModels.ImageArtist;
+import com.example.melobit.ArtistModels.ImageArtist;
 
 public class ArtistSong {
     String id;

@@ -10,8 +10,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.uni.melobit.ArtistModels.ResultArtists;
-import com.uni.melobit.SongModels.ResultSongs;
+import com.example.melobit.ArtistModels.ResultArtists;
+import com.example.melobit.SongModels.ResultSongs;
 
 import java.util.List;
 

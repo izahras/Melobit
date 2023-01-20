@@ -1,8 +1,8 @@
 package com.example.melobit;
 
-import com.uni.melobit.ArtistModels.ArtistsModel;
-import com.uni.melobit.MusicModel.ModelMusic;
-import com.uni.melobit.SongModels.SongsModel;
+import com.example.melobit.ArtistModels.ArtistsModel;
+import com.example.melobit.MusicModel.ModelMusic;
+import com.example.melobit.SongModels.SongsModel;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
