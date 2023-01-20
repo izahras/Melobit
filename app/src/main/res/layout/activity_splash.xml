@@ -14,4 +14,14 @@
         android:layout_centerInParent="true"
         android:src="@drawable/splahimage"
         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp"
+        android:text="Welcome to Melobit"
+        android:textColor="#fff"
+        android:textSize="20dp"/>
 </RelativeLayout>
