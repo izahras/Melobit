@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.uni.melobit">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.melobit">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -13,7 +14,8 @@
         android:theme="@style/Theme.Melobit">
         <activity
             android:name=".PlayMusicActivity"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="MissingClass" />
         <activity
             android:name=".ListSongsActivity"
             android:exported="false" />
